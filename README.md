@@ -3,11 +3,11 @@ This Repository includes a new application of DDF to the field of Fluid Physics,
 
 The DDF Folder is the standard DDF which contains the standard Gaussian+Polynomial(1st order) python script and a jupyternotebook guide on how to use it. It also contains an example of using it on a 10 by 10 grid. Here is a video showcasing DDF's forecasting ability (the black grid) against the Shallow Water (the colorful surface):
 
-https://user-images.githubusercontent.com/54558570/167758057-8e895c59-4acc-478c-b14e-5dceaa2da3c9.mp4
+https://user-images.githubusercontent.com/54558570/167760287-9e86ccd8-6809-493d-9cbf-9bdcf2bab396.mp4
 
 The Time Delay Embedding DDF Folder contains the TDE DDF python script as well as the jupyter notebook that guides users through it. Test data is included and an example folder is also included which contains a graph, video, and two text files of the results of a successful test. Here is a video of the regional weather forecasting ability of DDF using time delay embedding on a 3 by 3 corner of the 10 by 10 grid (The black outline is the prediction, the colorful tiles are the true SWE data):
 
-https://user-images.githubusercontent.com/54558570/167758126-abe694a0-993e-4081-a2e9-87776b9184e9.mp4
+https://user-images.githubusercontent.com/54558570/167760317-76ee1fcb-13e1-478a-a6a5-67e1178c1c05.mp4
 
 The Shallow Water Equations:
 
